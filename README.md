@@ -1,6 +1,6 @@
 # myFirefoxDriver
-最新更新了一下，可参考 [myReuseWebDriver](https://github.com/ANBUZHIDAO/myReuseWebDriver "ReuseWebDriver")，简单测试过Google Chrome 71， Firefox 64，IE11。---2019-01-28  
-Selenium Webdriver重新使用已打开的浏览器实例 适用于Selenium3.8.1  Firefox57 更新于2017-12-23
+最新更新了一下，可参考 [myReuseWebDriver](https://github.com/ANBUZHIDAO/myReuseWebDriver "ReuseWebDriver")，简单测试过Google Chrome 71， Firefox 64，IE11。
+Selenium Webdriver重新使用已打开的浏览器实例 适用于Selenium3.8.1  Firefox57 更新于2025-2-8
 
 # Selenium Webdriver 工作原理简介
     1）Selenium代码调用API实际上根据 The WebDriver Wire Protocol 发送不同的HttpRequest 到 WebdriverServer。
